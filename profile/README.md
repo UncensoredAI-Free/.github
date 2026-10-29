@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/UncensoredAI-Free/.github/main/profile/banner.jpg" alt="Uncensored AI image generator — no filters, no limits" width="100%">
+<img src="https://raw.githubusercontent.com/UncensoredAI-Free/.github/main/profile/banner-v2.jpg" alt="Uncensored AI image generator — no filters, no limits" width="100%">
 
 # Uncensored AI
 
@@ -15,7 +15,7 @@
 
 Every mainstream generator babysits you: blocked prompts, blurred outputs, accounts banned for artwork that harms no one. Uncensored AI takes the opposite approach — a full-power image model that renders **what you actually typed**, in any style, and keeps generation private on your own machine.
 
-<img src="https://raw.githubusercontent.com/UncensoredAI-Free/.github/main/profile/preview.jpg" alt="Uncensored AI artwork" width="100%">
+<img src="https://raw.githubusercontent.com/UncensoredAI-Free/.github/main/profile/preview-v2.jpg" alt="Uncensored AI artwork" width="100%">
 
 ## No filters means no filters
 
