@@ -39,8 +39,6 @@ Every mainstream generator babysits you: blocked prompts, blurred outputs, accou
 - **Character consistency** — keep the same face across a whole set
 - **Fast local renders** — tuned for modern NVIDIA and AMD cards
 
-| :---: | :---: |
-
 <div align="center">
 
 ## Download
